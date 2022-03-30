@@ -1,12 +1,12 @@
 # Teste de Eng. de Dados
 Critérios avaliadas:
-    -Docker;
-    -SQL;
-    -Python;
-    -Organização do Código
-    -Documentação
-    -ETL
-    -Modelagem dos dados
+- Docker;
+- SQL;
+- Python;
+- Organização do Código
+- Documentação
+- ETL
+- Modelagem dos dados
 
 ### Steps:
 
