@@ -11,7 +11,6 @@ Critérios avaliadas:
 ### Desejáveis
 - PySpark
 - Esquema Estrela
-- 
 
 
 ### Steps:
